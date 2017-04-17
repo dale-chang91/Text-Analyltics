@@ -1,4 +1,4 @@
-# misc_analytics
+# Text Analytics
 Collection of various analytics, machine learning, and deep learning projects
 
 ### Table of Contents
